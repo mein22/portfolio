@@ -31,7 +31,7 @@
         </router-link>
         <div class="flex space-x-5 mt-5">
           <a href="https://www.facebook.com/your-page" target="_blank">
-            <img src="../assets/icons/icon-Facebook.png" class="w-25" />
+            <img src="../assets/icons/Icon-Facebook.png" class="w-25" />
           </a>
           <a href="https://www.x.com/mein_yjd" target="_blank">
             <img src="../assets/icons/icon-Twitter.png" class="w-25" />
