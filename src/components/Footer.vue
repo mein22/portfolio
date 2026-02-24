@@ -40,7 +40,7 @@
             <img src="../assets/icons/icon-instagram.png" class="w-25" />
           </a>
           <a href="https://www.linkedin.com/in/yahaya-joseph-017442205" target="_blank">
-            <img src="../assets/icons/icon-Linkedin.png" class="w-25" />
+            <img src="../assets/icons/Icon-Linkedin.png" class="w-25" />
           </a>
         </div>
       </div>
