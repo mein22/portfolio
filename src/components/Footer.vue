@@ -34,7 +34,7 @@
             <img src="../assets/icons/Icon-Facebook.png" class="w-25" />
           </a>
           <a href="https://www.x.com/mein_yjd" target="_blank">
-            <img src="../assets/icons/icon-Twitter.png" class="w-25" />
+            <img src="../assets/icons/Icon-Twitter.png" class="w-25" />
           </a>
           <a href="https://www.instagram.com/astonishmotivations" target="_blank">
             <img src="../assets/icons/icon-instagram.png" class="w-25" />
